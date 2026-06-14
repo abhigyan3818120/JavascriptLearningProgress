@@ -1,0 +1,12 @@
+h1 {
+color: rgb(108, 204, 30);
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+display: inline-block;
+}
+p {
+    font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace;
+}
+div {
+    display: inline-block;
+}
