@@ -8,8 +8,12 @@ p {
     font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace;
 }
 div {
-    display: inline-block;
+    display: flex;
+    justify-content: end;
+    align-items: end;
     text-align: right;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: x-small
 }
 footer {
     background-color: black;
