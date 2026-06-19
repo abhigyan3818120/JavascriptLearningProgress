@@ -9,4 +9,12 @@ p {
 }
 div {
     display: inline-block;
+    text-align: right;
+}
+footer {
+    background-color: black;
+    color: aliceblue;
+    margin: 20px 0 0 0;
+    padding: 0%;
+    display: block;
 }
